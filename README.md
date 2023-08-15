@@ -8,6 +8,6 @@ Radionica sa ciljem upoznavanja polaznika generalno o IT-u kao struci, te opcija
 
 ## To-do:
 - Obavijestiti Team Leada o svakoj izmjeni/dodatku
-- Prebaciti docs sa drivea
-- Urediti prijasnje docs da ostanu samo neophodne i bitne stvari
-- Preurediti staru/e prezentaciju/e i updateovati informacije
+- [ ] Prebaciti docs sa drivea
+- [ ] Urediti prijasnje docs da ostanu samo neophodne i bitne stvari
+- [ ] Preurediti staru/e prezentaciju/e i updateovati informacije
